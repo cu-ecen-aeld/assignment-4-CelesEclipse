@@ -1,0 +1,7 @@
+# external.desc
+name: aesd_assignments
+version: 1.0
+description: AESD Assignment package containing scripts and applications
+maintainer: celeseclipse
+license: MIT
+source: git
